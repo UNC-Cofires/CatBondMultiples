@@ -1,0 +1,483 @@
+,Cat Bond Name,Cedent,Type of Risk,Tranche Name,Size of Tranche (million),Attachment Point (million),Exhaustion Point (million),Probability of Attachment,Expected Loss,Coupon Rate,US named storm
+2025-02-01,Gateway Re Ltd (Series 2025-1),"SureChoice Underwriters Reciprocal Exchange, SafeChoice Insurance Company",US named storm,AAA,100.0,1310.0,1435.0,0.0115,0.0107,0.0525,Florida named storm
+2025-02-01,Gateway Re Ltd (Series 2025-1),"SureChoice Underwriters Reciprocal Exchange, SafeChoice Insurance Company",US named storm,AA,80.0,525.0,685.0,0.0239,0.0179,0.07375,"US, Canada Named Storm and Earthquake"
+2025-02-01,Gateway Re Ltd (Series 2025-1),"SureChoice Underwriters Reciprocal Exchange, SafeChoice Insurance Company",US named storm,A,80.0,525.0,925.0,0.0482,0.0317,0.11425,California Earthquake
+2025-02-01,Gateway Re Ltd (Series 2025-1),"SureChoice Underwriters Reciprocal Exchange, SafeChoice Insurance Company",US named storm,C1,75.0,100.0,300.0,0.0243,0.0131,0.08625,US Earthquake
+2025-02-01,Gateway Re Ltd (Series 2025-1),"SureChoice Underwriters Reciprocal Exchange, SafeChoice Insurance Company",US named storm,C2,75.0,100.0,300.0,0.0243,0.0131,0.09625,Medical Benefit Claims Level
+2025-02-01,First Coast Re IV  Ltd,Security First Insurance Company,Florida named storm,A,60.0,640.0,,0.0141,0.013,0.08125,Southeast US Named Storm
+2025-02-01,First Coast Re IV  Ltd,Security First Insurance Company,Florida named storm,B,150.0,390.0,,0.0282,0.0225,0.09125,Worldwide Peak Perils
+2025-02-01,Ocelot Re Ltd,Hiscox,"US, Canada Named Storm and Earthquake",A,150.0,,,0.0173,0.0125,0.045,"U.S. named storm, U.S. and Canada Earthquake"
+2025-02-01,Ocelot Re Ltd,Hiscox,"US, Canada Named Storm and Earthquake",B,50.0,,,0.0255,0.0189,0.06875,Canada Earthquake and Severe convective storm
+2025-02-01,Ursa Re Ltd.,California Earthquake Authority,California Earthquake,F,200.0,500.0,2100.0,0.0438,0.0405,0.07125,"U.S. named storm (Florida, Alabama, Texas, Louisiana,  Mississippi)"
+2025-02-01,Winston Re Ltd.,Tower Hill Insurance Exchange,Florida named storm,A,100.0,925.0,1125.0,0.0155,0.0142,0.0725,"U.S., DC, Puerto Rico, Virgin Islands, Canada named storm and earthquake"
+2025-02-01,Veraison Re Ltd,"GeoVera Insurance Holdings, Ltd",US Earthquake,A,300.0,700.0,1000.0,0.0179,0.0143,0.035,"U.S., DC, Puerto Rico, Virgin Islands named storm and earthquake"
+2025-02-01,Veraison Re Ltd,"GeoVera Insurance Holdings, Ltd",US Earthquake,B,150.0,425.0,575.0,0.0299,0.0257,0.05,"US, Canada, Caribbean named storm, earthquake, severe weather, wildfire"
+2025-01-01,Vitality Re XVI Ltd,Aetna,Medical Benefit Claims Level,A,160.0,1006.0,1220.0,,0.0001,0.0175,"US, Canada, Caribbean named storms and earthquakes"
+2025-01-01,Vitality Re XVI Ltd,Aetna,Medical Benefit Claims Level,B,60.0,1000.0,1060.0,,,0.0225,"
+US named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact (excl. Florida)"
+2025-01-01,Vitality Re XVI Ltd,Aetna,Medical Benefit Claims Level,C,30.0,970.0,1000.0,,0.0096,0.0375,"US named storm, earthquake (fire-following only), severe thunderstorm, winter storm, wildfire"
+2025-02-01,Integrity Re III Ltd,American Integerity Insurance Group,Southeast US Named Storm,A1,50.0,545.0,845.0,0.0177,0.0158,0.105,"U.S named storm, earthquake, severe thunderstorm, winter storm, wildfire"
+2025-02-01,Integrity Re III Ltd,American Integerity Insurance Group,Southeast US Named Storm,A2,50.0,545.0,845.0,0.0177,0.0158,0.105,"U.S., Puerto Rico, U.S. Virgin Islands, D.C. named storm and earthquakes, Canada earthquakes"
+2025-02-01,Integrity Re III Ltd,American Integerity Insurance Group,Southeast US Named Storm,B1,50.0,545.0,845.0,0.0225,0.0201,0.12,"Chile, Peru, Bolivia, Argentina earthquake"
+2025-02-01,Integrity Re III Ltd,American Integerity Insurance Group,Southeast US Named Storm,B2,50.0,545.0,845.0,0.0225,0.0201,0.12,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake"
+2025-02-01,Integrity Re III Ltd,American Integerity Insurance Group,Southeast US Named Storm,C,75.0,545.0,845.0,0.0292,0.0255,0.1375,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)"
+2025-02-01,Integrity Re III Ltd,American Integerity Insurance Group,Southeast US Named Storm,D,50.0,370.0,545.0,0.0735,0.0492,0.27,U.S. earthquake
+2025-02-01,Integrity Re III Ltd,American Integerity Insurance Group,Southeast US Named Storm,E,90.0,90.0,265.0,0.0741,0.0451,,Cyber Risks
+2025-03-01,Hestia Re Ltd.,Kin Interinsurance Network,Florida named storm,A,100.0,605.0,805.0,0.017,0.0151,0.07625,"US named storm: Alabama, North and South Carolina, Louisiana, Mississippi, Texas, Virgina, New York"
+2025-03-01,Hestia Re Ltd.,Kin Interinsurance Network,Florida named storm,B,100.0,405.0,605.0,0.0254,0.0203,0.08625,"Massachusetts named storm, severe thunderstorm & winter storm"
+2025-01-01,3264 Re Ltd.,Hannover Re,Worldwide Peak Perils,A,100.0,,,0.1044,0.075,0.2125,"U.S. named storm (Florida, Louisiana, Alabama, Mississippi, Texas)"
+2025-01-01,3264 Re Ltd.,Hannover Re,Worldwide Peak Perils,B,100.0,,,0.0101,0.0092,0.03,Puerto Rico named storm and earthquake
+2025-01-01,Montoya Re Ltd.,Inigo Insurance,"U.S. named storm, U.S. and Canada Earthquake",A,85.0,,,0.0312,0.0275,0.0575,"U.S. named storm, U.S. & Canada earthquake"
+2025-01-01,Montoya Re Ltd.,Inigo Insurance,"U.S. named storm, U.S. and Canada Earthquake",B,30.0,,,0.0267,0.0167,0.0575,Florida Multi-Peril
+2025-01-01,Matterhorn Re Ltd.,Swiss Re,"US, Canada Named Storm and Earthquake",A,87.5,2900.0,4800.0,0.0499,0.0387,0.07,North Carolina named storm
+2025-01-01,Matterhorn Re Ltd.,Swiss Re,"US, Canada Named Storm and Earthquake",B,122.5,80000.0,120000.0,0.0817,0.06,0.1225,US Multi-Peril
+2025-01-01,MMIFS Re Ltd.,TD Insurance,Canada Earthquake and Severe convective storm,A,150.0,2350.0,2500.0,0.0045,0.0042,0.029,Pacific Coast Named Storm
+2025-01-01,Nature Coast Re Ltd.,SafePoint Insurance Company,"U.S. named storm (Florida, Alabama, Texas, Louisiana,  Mississippi)",A,200.0,,,0.0394,0.0292,0.0975,"
+U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption"
+2025-01-01,Bridge Street Re Ltd.,QBE Insurance Group Ltd. subsidiaries,"U.S., DC, Puerto Rico, Virgin Islands, Canada named storm and earthquake",A,250.0,,,0.0203,0.0129,0.04,"
+U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)"
+2025-01-01,Herbie Re Ltd.,Fidelis Insurance,"U.S., DC, Puerto Rico, Virgin Islands named storm and earthquake",A,150.0,110000.0,150000.0,0.0389,0.0309,0.0725,Jamaica named storms
+2025-01-01,Herbie Re Ltd.,Fidelis Insurance,"U.S., DC, Puerto Rico, Virgin Islands named storm and earthquake",B,150.0,78000.0,121000.0,0.0656,0.047,0.1075,"US named storm, US earthquake"
+2024-12-01,Herbie Re Ltd.,Fidelis Insurance,"U.S., DC, Puerto Rico, Virgin Islands named storm and earthquake",C,75.0,38000.0,78000.0,0.1521,0.1042,0.23,Louisiana named storm
+2024-12-01,Mystic Re IV Ltd.,Liberty Mutual,"US, Canada, Caribbean named storm, earthquake, severe weather, wildfire",A,125.0,2500.0,3800.0,0.0207,0.0141,0.04,"U.S. named storm, U.S. & Canada earthquake, European windstorm"
+2024-12-01,Mystic Re IV Ltd.,Liberty Mutual,"US, Canada, Caribbean named storm, earthquake, severe weather, wildfire",B,100.0,1000.0,1750.0,0.0788,0.0516,0.1025,Japan Earthquake
+2024-12-01,Mystic Re IV Ltd.,Liberty Mutual,"US, Canada, Caribbean named storm, earthquake, severe weather, wildfire",C,100.0,2400.0,2900.0,0.0503,0.0406,0.14,Mexico Earthquake and Atlantic coast named storm
+2024-12-01,London Bridge 2 PCC Limited,Beazley,"US, Canada, Caribbean named storms and earthquakes",A,200.0,800.0,1000.0,0.0137,0.0099,0.05,Texas Named Storms and Severe Storms
+2024-12-01,Armor Re II Ltd.,American Coastal Insurance Company,Florida Named Storm,A,200.0,50.0,250.0,0.0075,0.0059,0.085,"Named Storm: Massachusetts, New Jersey, South Carolina, New York"
+2024-12-01,Sanders Re II Ltd.,Allstate,"
+US named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact (excl. Florida)",A,300.0,4250.0,6250.0,0.0119,0.0088,0.04,"US named storm, Alabama, Florida, North and South Carolina, Louisiana, Mississippi, Texas"
+2024-12-01,Sanders Re II Ltd.,Allstate,"
+US named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact (excl. Florida)",B,350.0,4250.0,5200.0,0.0212,0.0175,0.0525,Florida and South Carolina named Storm
+2024-12-01,Bonanza Re Ltd.,Progressive,"US named storm, earthquake (fire-following only), severe thunderstorm, winter storm, wildfire",A,70.0,525.0,625.0,0.0603,0.0409,0.2,"Named Storm: Texas, North Carolina, South Carolina, Louisiana"
+2024-12-01,Bonanza Re Ltd.,Progressive,"US named storm, earthquake (fire-following only), severe thunderstorm, winter storm, wildfire",B,75.0,1050.0,1380.0,0.0093,0.0076,0.0375,"US, Canada named storms and earthquakes"
+2024-12-01,Bonanza Re Ltd.,Progressive,"US named storm, earthquake (fire-following only), severe thunderstorm, winter storm, wildfire",C,200.0,1050.0,1250.0,0.0209,0.0182,0.055,"Japan Typhoon, Japan flood, Japan Earthquake"
+2024-12-01,Four Lakes Re Ltd.,American Family Mutual Insurance Co.,"U.S named storm, earthquake, severe thunderstorm, winter storm, wildfire",A,200.0,1800.0,2000.0,0.0184,0.0164,0.055,"US named storm: Alabama, North and South Carolina, Texas, Louisiana, Mississippi"
+2024-12-01,Four Lakes Re Ltd.,American Family Mutual Insurance Co.,"U.S named storm, earthquake, severe thunderstorm, winter storm, wildfire",B,75.0,1200.0,1800.0,0.041,0.0277,0.0825,"US named storm (initially Alabama, Florida, Georgia, Mississippi, North Carolina and South Carolina)"
+2024-12-01,Recoletos Re DAC,Mapfre Re,US named storm,A,125.0,,,0.0236,0.0204,0.05,U.S. flood risk (from named storms)
+2024-12-01,Mona Lisa Re Ltd.,Renaissance Re and DaVinci Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C. named storm and earthquakes, Canada earthquakes",A,175.0,,,0.0416,0.0366,0.08,US Northeast named storm and US / Canada earthquake
+2024-12-01,Mona Lisa Re Ltd.,Renaissance Re and DaVinci Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C. named storm and earthquakes, Canada earthquakes",B,175.0,,,0.0563,0.0484,0.105,Medical Benefit claims levels
+2024-12-01,Maschpark Re Ltd.,Talanx AG (via Hannover Re),"Chile, Peru, Bolivia, Argentina earthquake",A,100.0,,,0.0113,0.0092,0.035,Texas named storm
+2024-11-01,Titania Re Ltd.,Syndicate 1901 (Ariel Re),"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",A,175.0,3065.0,4290.0,0.033,0.0247,0.0625,"US named storm, US and Canada Earthquake"
+2024-11-01,Titania Re Ltd.,Syndicate 1901 (Ariel Re),"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",B,150.0,2550.0,3070.0,0.0471,0.0402,0.095,"US named storn, US earthquake"
+2024-11-01,Residential Reinsurance 2024 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",2,75.0,2000.0,2900.0,0.0821,0.0614,0.1325,"US named storm, earthquake, severe thunderstorm, winter storm, wildfire"
+2024-11-01,Residential Reinsurance 2024 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",3,200.0,2900.0,4150.0,0.0452,0.0325,0.07,"U.S., DC, Puerto Rico, Virgin Islands named storm, U.S. earthquake, Canada earthquake"
+2024-11-01,Residential Reinsurance 2024 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",4,175.0,4150.0,4850.0,0.0235,0.0205,0.0525,"U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption (excl. California, Florida, Louisiana, Texas)"
+2024-10-01,Acorn Re Ltd.,"Hannover Ruck Se / Oak Tree Assurance, Ltd.",U.S. earthquake,A,225.0,,,0.0123,0.0088,0.031,"US named storm (Florida, Louisiana)"
+2024-10-01,Acorn Re Ltd.,"Hannover Ruck Se / Oak Tree Assurance, Ltd.",U.S. earthquake,B,225.0,,,0.0123,0.0088,0.031,"U.S named storm, U.S. & Canada earthquake, European windstorm"
+2024-10-01,Logistics Re Ltd.,"Prologis, Inc.",U.S. Earthquake,A,95.0,350.0,,0.031,0.026,0.06,US and Canada named storm and earthquake
+2024-09-01,PoleStar Re Ltd.,Beazley,Cyber Risks,A,210.0,800.0,1200.0,0.012,0.007,0.105,"US Northeast, named storm, earthquake, severe weather, fire"
+2024-06-01,3264 Re Ltd.,Hannover Re,US named storm,A,80.0,,,0.0175,0.015,0.07,Northeast U.S. named storm
+2024-06-01,3264 Re Ltd.,Hannover Re,US named storm,B,60.0,,,0.0605,0.0478,0.18,"US named storm: Alabama, North and South Carolina, Louisiana, Mississippi, Texas"
+2024-06-01,Gateway Re Ltd.,"Anchor Re, SureChoice Underwriters Reciprocal Exchange, Elevate Reciprocal Exchange","US named storm: Alabama, North and South Carolina, Louisiana, Mississippi, Texas, Virgina, New York",A,60.0,,,0.0565,0.0222,0.16,"US named storm, quake, severe thunderstorm, winter storm"
+2024-06-01,Kilimanjaro II Re Ltd,Everest Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",A,75.0,5700.0,,0.0184,0.0167,0.0625,"Florida named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact"
+2024-06-01,Kilimanjaro II Re Ltd,Everest Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",B,125.0,5100.0,,0.0229,0.0203,0.0725,"U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption"
+2024-06-01,Mayflower Re Ltd.,Massachusetts Property Insurance UNderwriting Association,"Massachusetts named storm, severe thunderstorm & winter storm",A,100.0,1250.0,1750.0,0.01267,0.01059,0.045,New York Storm Surge (named storm induced)
+2024-06-01,Nature Coast Re Ltd.,SafePoint Insurance Company,"U.S. named storm (Florida, Louisiana, Alabama, Mississippi, Texas)",A,50.0,600.0,800.0,0.0259,0.0196,0.1475,"US named storm (initially Connecticut, Delaware, Hawaii, Maryland, Massachusetts, New Jersey, New York, North Carolina, Penn, Rhode Island, South Carolina, Virginia)"
+2024-06-01,Puerto Rico Parametric Re Ltd.,Government of Puerto Rico,Puerto Rico named storm and earthquake,A,85.0,,,0.0307,0.0165,0.09,"US named storm: Alabama, Louisiana, Mississippi, New York, North Carolina, South Carolina, Texas, Virginia"
+2024-06-01,Mona Lisa Re Ltd.,Renaissance Re and DaVinci Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C. named storm and earthquakes, Canada earthquakes",A,150.0,,,0.026,0.0222,0.0975,Texas named storms and severe thunderstorm
+2024-05-01,Marlon Ltd.,Gallatin Point Capital LLC,Florida named storm,A,150.0,3800.0,4400.0,0.0075,0.0065,0.07,Texas named storms
+2024-05-01,Marlon Ltd.,Gallatin Point Capital LLC,Florida named storm,B,50.0,870.0,1300.0,0.0143,0.0092,0.11,"US earthquake, US named storms (Excludes Florida on a 1st event basis. Excludes California and Texas)"
+2024-05-01,Atlas Capital DAC,SCOR SE,"U.S. named storm, U.S. & Canada earthquake",A,175.0,,,0.0454,0.0387,0.125,"Florida named storm, severe thunderstorm"
+2024-05-01,Sanders Re II Ltd.,Allstate,Florida Multi-Peril,A,75.0,,,0.251,0.1632,,"US named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact (excl. Florida)"
+2024-05-01,Torrey Pines Re Ltd.,Palomar Speciality Insurance Company,California Earthquake,A,215.0,750.0,1100.0,0.0192,0.0158,0.06," Northeast US named storm, severe thunderstorm, winter storm, earthquake"
+2024-05-01,Torrey Pines Re Ltd.,Palomar Speciality Insurance Company,California Earthquake,B,130.0,500.0,700.0,0.0269,0.0234,0.0725,Chile earthquake
+2024-05-01,Torrey Pines Re Ltd.,Palomar Speciality Insurance Company,California Earthquake,C,75.0,325.0,425.0,0.0364,0.0332,0.09,U.S. flood risk (named storms)
+2024-05-01,Everglades Re II Ltd.,Citizens Property Insurance,Florida named storm,A,450.0,13309.0,15309.0,0.0134,0.0124,0.105,"U.S. (inc. DC, Puerto Rico & Virgin Islands) & Canada named storm and earthquake"
+2024-05-01,Everglades Re II Ltd.,Citizens Property Insurance,Florida named storm,B,425.0,11309.0,13309.0,0.0174,0.0151,0.115,"US, Canada, Caribbean named storm & earthquake"
+2024-05-01,Everglades Re II Ltd.,Citizens Property Insurance,Florida named storm,C,225.0,9809.0,11309.0,0.0206,0.0191,0.1275,North American Earthquake
+2024-05-01,Longleaf Pine Re Ltd.,North Carolina Joint Underwriting Association,North Carolina named storm,A,145.0,170.0,330.0,0.0772,0.0568,0.175,"U.S. named storms (inc. Puerto Rico & Virgin Islands), U.S. & Canada earthquake"
+2024-05-01,PoleStar Re Ltd.,Beazley,Cyber Risks,144A,160.0,500.0,800.0,,0.0126,0.1325,Louisiana named storm and severe thunderstorm
+2024-05-01,Merna Re II Ltd.,State Farm,US Multi-Peril,Series 2024-1 A,250.0,,,0.0237,0.0208,0.0725,US named storm and earthquake
+2024-05-01,Merna Re II Ltd.,State Farm,US Multi-Peril,Series 2024-2 A,300.0,,,0.0417,0.0186,0.0875,Japan Typhoon
+2024-05-01,Merna Re II Ltd.,State Farm,US Multi-Peril,Series 2024-3 A,450.0,,,0.0207,0.0179,0.085,"Florida named storm, earthquake, severe thunderstorm, volcanic eruption, meteorite impact, wildfire"
+2024-05-01,IBRD Car Mexico  2024,Government of Mexico / AGROASEMEX S.A.,Pacific Coast Named Storm,D,175.0,,,0.0626,0.0409,0.12,Texas named storms and severe thunderstorms
+2024-05-01,Aquila Re I Ltd.,Nationwide Mutual INsurance Co.,"
+U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption",A-1,125.0,1950.0,2350.0,0.0121,0.0101,0.055,Florida named storms
+2024-05-01,Aquila Re I Ltd.,Nationwide Mutual Insurance Co.,"
+U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption",B-1,100.0,1200.0,1550.0,0.0309,0.0244,0.09,"U.S. tropical cyclone, earthquake, severe thunderstorm, winter storm (Northeastern U.S. states only)"
+2024-05-01,Residential Reinsurance 2024 Limited,USAA,"
+U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",13,50.0,3100.0,4100.0,0.0347,0.0204,0.09,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake. Japan earthquake"
+2024-05-01,Residential Reinsurance 2024 Limited,USAA,"
+U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",14,75.0,4100.0,5000.0,0.0106,0.0077,0.0575,"US named storm: Alabama, Louisiana, Mississippi, Texas"
+2024-05-01,Residential Reinsurance 2024 Limited,USAA,"
+U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",11,50.0,2450.0,3100.0,0.085,0.0547,0.165,"US named storm (initially Connecticut, Delaware, Maryland, Massachusetts, New Jersey, New York, Rhode Island, Virginia)"
+2024-05-01,IBRD CAR Jamaica 2024,Government of Jamaica,Jamaica named storms,IBRD CAR 136,150.0,,,0.0234,0.015,0.07,"U.S. named storm, U.S. and Canada earthquake, Japan earthquake, Japan typhoon"
+2024-05-01,Atela Re LTD.,Nephila Syndicate Management Limited (for Syndicate 2357),"US named storm, US earthquake",A,60.0,,,0.0666,0.0515,0.1425,"Japan typhoon, Japan flood"
+2024-05-01,Atela Re LTD.,Nephila Syndicate Management Limited (for Syndicate 2357),"US named storm, US earthquake",B,30.0,,,0.1173,0.0836,0.22,North Carolina named storm and severe thunderstorm
+2024-04-01,Bayou Re Ltd.,Louisiana Citizens Property Insurance Corporation,Louisiana named storm,A,200.0,1330.0,2000.0,0.0147,0.0114,0.085,Terrorism Risk
+2024-04-01,Bayou Re Ltd.,Louisiana Citizens Property Insurance Corporation,Louisiana named storm,B,75.0,500.0,800.0,0.0409,0.0319,0.185,U.S. flood risks (for named storms)
+2024-04-01,Kendall Re Ltd.,Aspen Insurance,"U.S. named storm, U.S. & Canada earthquake, European windstorm",A,225.0,,,0.0159,0.0104,0.0625,"U.S. named storm, U.S. earthquake"
+2024-04-01,Kendall Re Ltd.,Aspen Insurance,"U.S. named storm, U.S. & Canada earthquake, European windstorm",B,75.0,,,0.0387,0.0254,0.0775,"U.S., Canada, Puerto Rico, U.S. Virgin Islands named storms and earthquakes"
+2024-04-01,Nakama Re Ptd Ltd.,Zenkyoren,Japan Earthquake,1,150.0,1262.0,1428.0,0.0082,0.0079,0.0235,"US named storm, earthquake, severe weather, wildfire"
+2024-04-01,Armor Re II Ltd.,American Coastal Insurance Company,Florida Named Storm,A,200.0,275.0,575.0,0.0138,0.0089,0.1025," U.S named storm, earthquake, severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact"
+2024-04-01,IBRD CAR Mexico,Government of Mexico / AGROASEMEX S.A.,Mexico Earthquake and Atlantic coast named storm,A,225.0,,,0.0117,0.009,0.04,"U.S. named storms, severe thunderstorms, winter storms, wildfires, earthquakes"
+2024-04-01,IBRD CAR Mexico,Government of Mexico / AGROASEMEX S.A.,Mexico Earthquake and Atlantic coast named storm,B,70.0,,,0.083,0.0584,0.11,California wildfire
+2024-04-01,IBRD CAR Mexico,Government of Mexico / AGROASEMEX S.A.,Mexico Earthquake and Atlantic coast named storm,C,125.0,,,0.0796,0.0569,0.135,Extreme Mortality
+2024-04-01,Alamo Re Ltd.,Texas Windstorm Insurance Association,Texas Named Storms and Severe Storms,A,500.0,6000.0,6500.0,0.0148,0.0142,0.06, U.S. named storm
+2024-04-01,Alamo Re Ltd.,Texas Windstorm Insurance Association,Texas Named Storms and Severe Storms,B,500.0,3650.0,6000.0,0.0261,0.0196,0.0775,Global Peak Perils
+2024-04-01,Alamo Re Ltd.,Texas Windstorm Insurance Association,Texas Named Storms and Severe Storms,C,400.0,2450.0,3450.0,0.0397,0.0329,0.1125," U.S., Puerto Rico, U.S. Virgin Islands, D.C. named storm and earthquakes, Canada earthquakes"
+2024-04-01,Charles River Re Ltd.,American European Insurance Company,"Named Storm: Massachusetts, New Jersey, South Carolina, New York",A,125.0,175.0,300.0,0.0271,0.0187,0.065,"Northeast U.S. named storm, earthquake, severe weather, fire and other perils"
+2024-04-01,Palm Re Ltd.,Florida Peninsula Insurance,Florida Named Storm,A,150.0,570.0,870.0,0.025,0.0178,0.095,Florida and South Carolina named storms
+2024-04-01,Gateway Re Ltd.,"Surechoice Underwriters Recipricol Exchange, Elevate Reciprocal Change","US named storm, Alabama, Florida, North and South Carolina, Louisiana, Mississippi, Texas",C,130.0,110.0,240.0,0.0199,0.0123,0.0825,"US named storm, earthquake, severe weather, wildfire, other perils (excl. Florida)"
+2024-04-01,Purple Re Ltd.,Slide Insurance Company,Florida and South Carolina named Storm,A,210.0,505.0,805.0,0.0123,0.0106,0.09,"U.S. and Canada named storms, earthquakes, severe thunderstorms, winter storms, wildfires, meteorite impact, volcanic eruption"
+2024-04-01,Sabine Re Ltd.,Allied Trust Insurance Company,"Named Storm: Texas, North Carolina, South Carolina, Louisiana",A,100.0,200.0,360.0,0.0221,0.0148,0.0825,"North America named storm, North America earthquake, US severe thunderstorm, US wildfire, US winter storms, US Caribbean earthquake, Japan typhoon, Japan earthquake, Canada severe storm, Canada winter storm, European windstorm, Italy earthquake, Turkey earthquake, Australia earthquake, Australia tropical cyclone, NZ earthquake"
+2024-03-01,Aragonite Re Ltd.,Brookfield Property Group,"US, Canada named storms and earthquakes",A,100.0,350.0,600.0,0.008,0.0059,0.0525,Unknown property catastrophe risks
+2024-03-01,Tomoni Re Ptd Ltd.,"Mitsui Sumitomo Insurance Co. Ltd., Aioi Nissay Dowa Insurance Co., Ltd.","Japan Typhoon, Japan flood, Japan Earthquake",A,100.0,,,0.0172,0.0145,0.0325," U.S. named storm, U.S. & Canada earthquake, European windstorm"
+2024-03-01,Tomoni Re Ptd Ltd.,"Mitsui Sumitomo Insurance Co. Ltd., Aioi Nissay Dowa Insurance Co., Ltd.","Japan Typhoon, Japan flood, Japan Earthquake",B,100.0,,,0.017,0.016,0.04,"Japanese Typhoon, Japanese Flood, U.S. earthquake"
+2024-03-01,Ashera Re Ltd.,PURE,"US, Canada named storms and earthquakes",A,105.0,1000.0,1600.0,0.0247,0.0168,0.05,U.S. named storm
+2024-03-01,Gateway Re Ltd.,"Surechoice Underwriters Recipricol Exchange, Elevate Reciprocal Change","US named storm: Alabama, North and South Carolina, Texas, Louisiana, Mississippi",AA,100.0,1220.0,1350.0,0.0119,0.011,0.055,"U.S. named storms (inc. Puerto Rico & Virgin Islands), U.S. & Canada earthquake, European windstorm"
+2024-03-01,Gateway Re Ltd.,"Surechoice Underwriters Recipricol Exchange, Elevate Reciprocal Change","US named storm: Alabama, North and South Carolina, Texas, Louisiana, Mississippi",A,150.0,535.0,715.0,0.0191,0.0147,0.075,"U.S named storm, U.S. & Canada earthquake, U.S. severe thunderstorm, European windstorm"
+2024-03-01,Cape Lookout Re Ltd.,North Carolina Insurance Underwriting Agency,North Carolina named storm,A,450.0,2430.0,2880.0,0.0293,0.0256,0.08,"U.S named storm, earthquake, severe thunderstorm, wildfire, winter storm, volcanic eruption, meteorite impact"
+2024-03-01,Citrus Re Ltd.,Heritage Property and Casualty Insurance Co.,"US named storm (initially Alabama, Florida, Georgia, Mississippi, North Carolina and South Carolina)",A,50.0,700.0,800.0,0.0138,0.0129,0.0925,New York storm surge and earthquake
+2024-03-01,Citrus Re Ltd.,Heritage Property and Casualty Insurance Co.,"US named storm (initially Alabama, Florida, Georgia, Mississippi, North Carolina and South Carolina)",B,50.0,560.0,700.0,0.0164,0.015,0.105," U.S. (ex Florida) named storm, earthquake, severe weather, fire, other perils"
+2024-03-01,Kizuna Re III Pte. Ltd.,Tokio Marine & Nichido Fire Insurance Co. Ltd.,Japan Earthquake,A,100.0,350.0,6657.0,0.0557,0.0159,0.0275,"Mexico earthquakes, mexico named storms"
+2024-03-01,Floodsmart Re Ltd.,FEMA / NFIP via Hannover Re,U.S. flood risk (from named storms),A,475.0,9000.0,11000.0,0.0579,0.0501,0.14,"U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption, other perils"
+2024-03-01,Floodsmart Re Ltd.,FEMA / NFIP via Hannover Re,U.S. flood risk (from named storms),B,100.0,8000.0,9000.0,0.0682,0.0629,0.1725,"U.S. named storm, extreme mortality in Australia, Canada, UK"
+2024-03-01,Integrity Re Ltd.,American Integrity Insurance Group,Southeast US named storm,A,120.0,120.0,240.0,0.0088,0.0022,0.105,"U.S. named storm, earthquake, winter storm, severe thunderstorm"
+2024-03-01,Integrity Re Ltd.,American Integrity Insurance Group,Southeast US named storm,B,50.0,350.0,500.0,0.0258,0.0235,0.1325,"U.S., Puerto Rico, Virgin Islands named storm, U.S. earthquake, Canada earthquake, U.S. severe thunderstorm, European windstorm, Australian tropical cyclone, Australian earthquake"
+2024-03-01,Integrity Re Ltd.,American Integrity Insurance Group,Southeast US named storm,C,60.0,60.0,210.0,0.0264,0.0238,0.17,Philippine earthquakes & tropical cyclones
+2024-03-01,Integrity Re Ltd.,American Integrity Insurance Group,Southeast US named storm,D,75.0,200.0,350.0,0.0635,0.0356,0.23,"U.S. named storm, U.S. and Canada earthquake, European windstorm"
+2024-02-01,Ramble Re Ltd.,Arch Capital Group Ltd.,US Northeast named storm and US / Canada earthquake,A,100.0,,,0.0413,0.0319,0.0625,Florida named storms & severe thunderstorms
+2024-02-01,Herbie Re Ltd.,Fidelis Insurance,"U.S., DC, Puerto Rico, Virgin Islands named storm and earthquake",A,100.0,,,0.0378,0.0292,0.06,"U.S. named storm, U.S. severe thunderstorm (Florida, Louisiana, New Jersey & Texas initially)"
+2024-02-01,Herbie Re Ltd.,Fidelis Insurance,"U.S., DC, Puerto Rico, Virgin Islands named storm and earthquake",B,50.0,,,0.0636,0.0451,0.09,"U.S. (ex Florida) named storm, earthquake, severe weather, fire, other perils"
+2024-02-01,Winston Re Ltd.,Tower Hill Insurance Exchange,Florida named storm,A,250.0,850.0,1100.0,0.0173,0.0156,0.1025,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm, earthquake and severe thunderstorm"
+2024-02-01,Winston Re Ltd.,Tower Hill Insurance Exchange,Florida named storm,B,150.0,600.0,850.0,0.0228,0.0197,0.1175,North Carolina named storm & severe thunderstorm
+2024-02-01,Veraison Re Ltd.,"GeoVera Insurance Holdings, Ltd.",US earthquake,A,175.0,700.0,950.0,0.0124,0.01,0.0475,Workers compensation claims resulting from California earthquakes
+2024-01-01,Vitality Re XV Ltd.,Aetna,Medical Benefit claims levels,A,140.0,1060.0,1200.0,,,0.025,0
+2024-01-01,Vitality Re XV Ltd.,Aetna,Medical Benefit claims levels,B,60.0,1000.0,1060.0,,,0.035,
+2024-01-01,Fish Pond Re Ltd.,Texas Farm Bureau Insurance,Texas named storm,A,255.0,1250.0,,0.00176,0.00112,0.04,
+2024-01-01,Montoya Re Ltd.,Inigo Insurance (Syndicate 1301),"US named storm, US and Canada Earthquake",A,100.0,,,0.0508,0.0446,0.115,
+2023-12-01,Matterhorn Re Ltd.,Swiss Re,Cyber Risks,CYB-A,50.0,9000.0,11500.0,0.02228,0.01721,0.12,
+2023-12-01,East Lane Re VII Ltd.,Chubb,Cyber Risks,A,150.0,600.0,,0.02142,0.01387,0.0925,
+2023-12-01,Ocelet Re Ltd.,Hiscox,"US, Canada named storms and earthquakes",A,125.0,,,0.0353,0.0266,0.0775,
+2023-12-01,Foundation Re IV Ltd.,Hartford Fire Insurance Co.,"US named storn, US earthquake",A,200.0,1100.0,1400.0,0.0167,0.0136,0.0625,
+2023-12-01,Bonanza Re Ltd.,ARX Holding Corp. (Progressive Home),"US named storm, earthquake, severe thunderstorm, winter storm, wildfire",A,70.0,425.0,525.0,0.033,0.0228,0.23,
+2023-12-01,London Bridge 2 PCC Limited,Beazley,"US, Canada, Caribbean named storms and earthquakes",2023-1,100.0,500.0,800.0,0.0399,0.0246,0.1,
+2023-12-01,Polestar Re Ltd.,Beazley,Cyber Risks,A,140.0,500.0,800.0,0.0171,0.0126,0.13,
+2023-12-01,Easton Re Ltd.,Hamilton Re,"U.S., DC, Puerto Rico, Virgin Islands named storm, U.S. earthquake, Canada earthquake",A,200.0,,,0.0412,0.0265,0.075,
+2023-12-01,Mystic Re IV Ltd.,Liberty Mutual,"US, Canada, Caribbean named storms and earthquakes",A,300.0,,,0.0721,0.0503,0.12,
+2023-12-01,Four Lakes Re Ltd.,American Family Mutual Insurance  Co.,"U.S named storm, earthquake, severe thunderstorm, winter storm, wildfire",A,125.0,2000.0,3000.0,0.0071,0.0063,0.0575,
+2023-12-01,Four Lakes Re Ltd.,American Family Mutual Insurance  Co.,"U.S named storm, earthquake, severe thunderstorm, winter storm, wildfire",B,50.0,950.0,1500.0,0.0419,0.0244,0.095,
+2023-12-01,Galileo Re Ltd.,XL Bermuda Ltd.,"U.S., DC, Puerto Rico, Virgin Islands named storm, U.S. earthquake, Canada earthquake",A,200.0,1700.0,2200.0,0.026,0.021,0.07,
+2023-12-01,Galileo Re Ltd.,XL Bermuda Ltd.,"U.S., DC, Puerto Rico, Virgin Islands named storm, U.S. earthquake, Canada earthquake",B,175.0,1700.0,2200.0,0.026,0.021,0.07,
+2023-12-01,High Point Re Ltd.,Selective Insurance Company,"U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption (excl. California, Florida, Louisiana, Texas)",A,325.0,700.0,1200.0,0.0113,0.0077,0.0575,
+2023-12-01,Ursa Re Ltd.,California Earthquake Authority,California Earthquake,AA,300.0,8893.0,,0.0112,0.0105,0.055,
+2023-12-01,Ursa Re Ltd.,California Earthquake Authority,California Earthquake,D,350.0,3894.0,,0.0283,0.0268,0.0875,
+2023-11-01,Nature Coast Re Ltd.,SafePoint Insurance Company,"US named storm (Florida, Louisiana)",A,150.0,587.0,787.0,0.0118,0.0093,0.1,
+2023-11-01,Nature Coast Re Ltd.,SafePoint Insurance Company,"US named storm (Florida, Louisiana)",B,45.0,387.0,587.0,0.0233,0.016,0.135,
+2023-11-01,Long Walk Reinsurance Ltd.,AXIS Capital,Cyber Risks,A,75.0,510.0,650.0,0.0246,0.0197,0.0975,
+2023-11-01,Blue Ridge Re Ltd.,North Carolina Farm Bureau,North Carolina named storm,A,200.0,1000.0,1600.0,0.0132,0.0098,0.0525,
+2023-11-01,Blue Ridge Re Ltd.,North Carolina Farm Bureau,North Carolina named storm,B,200.0,500.0,1000.0,0.0281,0.0191,0.08,
+2023-11-01,Residential Reinsurance 2023 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",2,50.0,1750.0,,0.0784,0.0591,0.135,
+2023-11-01,Residential Reinsurance 2023 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",3,150.0,2450.0,,0.0443,0.0305,0.085,
+2023-11-01,Residential Reinsurance 2023 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",5,200.0,4350.0,,0.0149,0.0125,0.0575,
+2023-11-01,2001 CAT Re Ltd.,Allied World Assurance Company,"U.S named storm, U.S. & Canada earthquake, European windstorm",A,275.0,,,0.0841,0.0513,0.125,
+2023-10-01,Ursa Re Ltd.,California Earthquake Authority,California Earthquake,E,230.0,3024.0,3524.0,0.0351,0.0328,0.0925,
+2023-07-01,Gateway Re Ltd.,Anchor Re,"US named storm: Alabama, North and South Carolina, Louisiana, Mississippi, Texas, Virgina, New York",A,50.0,,,0.0565,0.0222,0.1,
+2023-07-01,Wrigley Re Ltd.,Gryphon Mutual,US and Canada named storm and earthquake,A,100.0,350.0,650.0,0.0095,0.0056,0.065,
+2023-07-01,Wrigley Re Ltd.,Gryphon Mutual,US and Canada named storm and earthquake,B,150.0,750.0,900.0,0.012,0.0103,0.07,
+2023-07-01,Purple Re Ltd.,Slide Insurance Company,Florida and South Carolina named storm,A,100.0,315.0,415.0,0.0112,0.0105,0.1,
+2023-06-01,Lower Ferry Re Ltd.,NJM Insurance,US named storm,A,65.0,600.0,800.0,0.0103,0.0088,0.0425,
+2023-06-01,Lower Ferry Re Ltd.,NJM Insurance,US named storm,B,125.0,300.0,600.0,0.0193,0.0136,0.05,
+2023-06-01,Mayflower Re Ltd.,Massachusetts Property Insurance Underwriting Association,"Massachusetts named storm, severe thunderstorm & winter storm",A,100.0,850.0,1250.0,0.01322,0.01084,0.045,
+2023-06-01,Mayflower Re Ltd.,Massachusetts Property Insurance Underwriting Association,"Massachusetts named storm, severe thunderstorm & winter storm",B,150.0,550.0,850.0,0.01954,0.01598,0.0575,
+2023-06-01,Baldwin Re Ltd.,Vermont Mutual Insurance Company,"US Northeast, named storm, earthquake, severe weather, fire",A,100.0,450.0,950.0,0.01783,0.01203,0.045,
+2023-06-01,Acorn Re Ltd.,"Hannover Rück SE / Oak Tree Assurance, Ltd.",U.S. Earthquake,A,150.0,,,0.0117,0.0091,0.0435,
+2023-06-01,Commonwealth Re ltd.,The Hanover Insurance Group,Northeast U.S. named storm,A,150.0,1300.0,1600.0,0.0066,0.0057,0.04,
+2023-06-01,Solomon Re Ltd.,Korean Re,"US named storm, US earthquake",A,75.0,110.0,285.0,0.0222,0.0093,0.0525,
+2023-06-01,Stabilitis Re Ltd.,Conduit Re,"US named storm, US earthquake",A,100.0,200.0,300.0,0.0386,0.027,0.085,
+2023-06-01,Sutter Re Ltd.,California Earthquake Authority,California Earthquake,B,225.0,5651.0,,0.0194,0.0186,0.0675,
+2023-06-01,Sutter Re Ltd.,California Earthquake Authority,California Earthquake,E,200.0,2994.0,,0.0351,0.0328,0.0975,
+2023-06-01,Gateway Re Ltd.,"SureChoice Underwriters Reciprocal Exchange, Elevate Reciprocal Exchange","US named storm: Alabama, North and South Carolina, Louisiana, Mississippi, Texas",C,100.0,70.0,170.0,0.0144,0.008,0.085,
+2023-05-01,Mountain Re Ltd.,Spinnaker Insurance Company,"US named storm, quake, severe thunderstorm, winter storm",A,110.0,150.0,175.0,0.0143,0.0086,0.0675,
+2023-05-01,Sanders Re III Ltd.,Allstate,"Florida named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact",A,300.0,360.0,660.0,0.0109,0.0091,0.08,
+2023-05-01,Sanders Re III Ltd.,Allstate,"Florida named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact",B,70.0,40.0,110.0,0.2655,0.1908,,
+2023-05-01,Atlas Capital DAC,SCOR SE,"U.S. named storm, U.S. & Canada earthquake, European windstorm",A,75.0,,,0.0239,0.021,0.0725,
+2023-05-01,Torry Pines Re Ltd.,Palomar Speciality Insurance Company,US earthquake,A,150.0,1225.0,1375.0,0.0096,0.009,0.05,
+2023-05-01,Torry Pines Re Ltd.,Palomar Speciality Insurance Company,US earthquake,B,50.0,650.0,750.0,0.0256,0.0238,0.075,
+2023-05-01,Everglades Re II Ltd.,Citizens Property Insurance,Florida named storm,2023-1 A,300.0,4010.0,5180.0,0.0192,0.0159,0.11375,
+2023-05-01,Everglades Re II Ltd.,Citizens Property Insurance,Florida named storm,2023-2 A,450.0,6486.0,9491.0,0.0123,0.0092,0.10125,
+2023-05-01,Aquila Re I Ltd.,Nationwide Mutual Insurance Co.,"U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption",A,50.0,3150.0,3400.0,0.0041,0.0037,0.0525,
+2023-05-01,Aquila Re I Ltd.,Nationwide Mutual Insurance Co.,"U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption",B,125.0,1950.0,2350.0,0.0127,0.0103,0.075,
+2023-05-01,Aquila Re I Ltd.,Nationwide Mutual Insurance Co.,"U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption",C,125.0,1550.0,1950.0,0.0193,0.0157,0.0925,
+2023-05-01,MetroCat Re Ltd.,First Mutual Transportation Assurance Co. (NYC MTA),New York Storm Surge (named storm induced),A,100.0,,,0.01337,0.01337,0.0575,
+2023-05-01,Bayou Re Ltd.,Louisiana Citizens Property Insurance Corporation,Louisiana named storm,A,120.0,800.0,1050.0,0.025,0.0214,0.1275,
+2023-05-01,Bayou Re Ltd.,Louisiana Citizens Property Insurance Corporation,Louisiana named storm,B,75.0,500.0,800.0,0.0391,0.0309,0.195,
+2023-05-01,Queen Street 2023 Re Dac,Munich Re,US named storm,,300.0,,,0.0226,0.0172,0.075,
+2023-05-01,Residential Reinsurance 2023 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",13,125.0,2725.0,3600.0,0.0363,0.0211,0.105,
+2023-05-01,Residential Reinsurance 2023 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",14,275.0,3600.0,4650.0,0.0118,0.0075,0.065,
+2023-05-01,Citrus Re Ltd.,Heritage Property and Casuality Insurance Co.,"US named storm (initially Connecticut, Delaware, Hawaii, Maryland, Massachusetts, New Jersey, New York, North Carolina, Penn, Rhode Island, South Carolina, Virginia)",A,120.0,390.0,760.0,0.0205,0.0166,0.0675,
+2023-05-01,Citrus Re Ltd.,Heritage Property and Casuality Insurance Co.,"US named storm (initially Connecticut, Delaware, Hawaii, Maryland, Massachusetts, New Jersey, New York, North Carolina, Penn, Rhode Island, South Carolina, Virginia)",B,115.0,390.0,505.0,0.0262,0.0254,0.09,
+2023-04-01,Nakama Re Ltd.,Zenkyoren,Japan earthquake,A,75.0,12756.0,14433.0,0.0084,0.0079,0.025,
+2023-04-01,Nakama Re Ltd.,Zenkyoren,Japan earthquake,B,150.0,6274.0,,0.017,0.0154,0.04,
+2023-04-01,Cape Lookout Re Ltd.,North Carolina Insurance Underwriting Association,North Carolina named storm,A,350.0,2880.0,3380.0,0.0155,0.0137,0.065,
+2023-04-01,Gateway Re II Ltd.," SafePort Insurance Company, SafeChoice Insurance Company","US named storm: Alabama, Louisiana, Mississippi, New York, North Carolina, South Carolina, Texas, Virginia",A,125.0,130.0,280.0,0.0246,0.0144,0.095,
+2023-04-01,Alamo Re Ltd.,Texas Windstorm Insurance Association (TWIA),Texas named storms and severe thunderstorm,A,500.0,2965.0,4508.0,0.0258,0.0205,0.085,
+2023-04-01,Ursa Re Ltd.,California Earthquake Authority,California Earthquake,AA,125.0,8475.0,9475.0,0.0113,0.0105,0.055,
+2023-04-01,Ursa Re Ltd.,California Earthquake Authority,California Earthquake,C,75.0,4407.0,4907.0,0.0243,0.023,0.0825,
+2023-04-01,Purple Re Ltd.,Slide Insurance Company,Florida and South Carolina named storm,A,100.0,315.0,750.0,0.0196,0.0136,0.1225,
+2023-04-01,Merna Re II Ltd.,State Farm,Texas named storms,A,200.0,,,0.0403,0.0339,0.1025,
+2023-04-01,Merna Re II Ltd.,State Farm,"US earthquake, US named storms (Excludes Florida on a 1st event basis. Excludes California and Texas)",A,250.0,,,0.0195,0.017,0.0775,
+2023-04-01,First Coast Re IV Ltd.,Security First Insurance Company,"Florida named storm, severe thunderstorm",A,100.0,,,0.0136,0.0125,0.09,
+2023-03-01,Sanders Re III Ltd.,Allstate,"US named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact (excl. Florida)",A,100.0,4750.0,,0.0102,0.009382,0.0575,
+2023-03-01,Sanders Re III Ltd.,Allstate,"US named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact (excl. Florida)",B,150.0,3598.0,4098.0,0.0102,0.007482,0.155,
+2023-03-01,Hypatia Ltd.,Convex Re,"U.S. named storm, U.S. & Canada earthquake",A,150.0,3800.0,4300.0,0.0281,0.0252,0.095,
+2023-03-01,Hestia Re Ltd.,Kin Interinsurance Network,Florida named storm,A,100.0,110.0,310.0,0.0136,0.0104,0.0975,
+2023-03-01,Locke Tavern Re Ltd.,The Andover Companies," Northeast US named storm, severe thunderstorm, winter storm, earthquake",A,175.0,1100.0,1550.0,0.01139,0.00919,0.0475,
+2023-03-01,Integrity Re Ltd.,American Integrity Insurance Group,Florida named storm,A,150.0,450.0,650.0,0.0167,0.0147,0.12,
+2023-03-01,IBRD - Chile 2023,Republic of Chile,Chile earthquake,,350.0,,,0.0148,0.01,0.0475,
+2023-03-01,Lightning Re Ltd.,Citizens Property Insurance,Florida named storm,A,500.0,51500.0,66000.0,0.0218,0.018,0.11,
+2023-03-01,Floodsmart Re Ltd.,FEMA / NFIP via Hannover Re,U.S. flood risk (named storms),A,225.0,8000.0,10000.0,0.0625,0.0535,0.1625,
+2023-03-01,Floodsmart Re Ltd.,FEMA / NFIP via Hannover Re,U.S. flood risk (named storms),B,50.0,7000.0,8000.0,0.0745,0.0683,0.215,
+2023-02-01,Titania Re Ltd.,Syndicate 1910 (Ariel Re),"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",A,75.0,,,0.0304,0.0259,0.1225,
+2023-02-01,Titania Re Ltd.,Syndicate 1910 (Ariel Re),"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",B,50.0,,,0.0458,0.0382,0.1275,
+2023-02-01,Gateway Re Ltd.,"SureChoice Underwriters Reciprocal Exchange, Elevate Reciprocal Exchange","US named storm: Alabama, North and South Carolina, Louisiana, Mississippi, Texas",A,300.0,,,0.0268,0.0162,0.13,
+2023-02-01,Gateway Re Ltd.,"SureChoice Underwriters Reciprocal Exchange, Elevate Reciprocal Exchange","US named storm: Alabama, North and South Carolina, Louisiana, Mississippi, Texas",B,55.0,,,0.0435,0.0336,0.2,
+2023-02-01,Vitality Re XIV Ltd.,Aetna,Medical benefit claims levels,A,140.0,1060.0,1200.0,,0.0001,0.035,
+2023-01-01,Vitality Re XIV Ltd.,Aetna,Medical benefit claims levels,B,60.0,1000.0,1060.0,,0.002,0.045,
+2023-01-01,Mona Lisa Re Ltd., Renaissance Re and DaVinci Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C. named storm and earthquakes, Canada earthquakes",A,85.0,,,0.0276,0.0225,0.1225,
+2023-01-01,Mona Lisa Re Ltd., Renaissance Re and DaVinci Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C. named storm and earthquakes, Canada earthquakes",B,100.0,,,0.0363,0.032,0.125,
+2023-01-01,Bonanza Re Ltd.,ARX Holding Corp. (Progressive Home),"US named storm, earthquake, severe thunderstorm, winter storm, wildfire",A,70.0,1800.0,,0.0095,0.0087,0.0825,
+2023-01-01,Bonanza Re Ltd.,ARX Holding Corp. (Progressive Home),"US named storm, earthquake, severe thunderstorm, winter storm, wildfire",B,65.0,600.0,,0.0187,0.01,0.2,
+2022-12-01,Four Lakes Re Ltd.,American Family Mutual Insurance Co.,"U.S named storm, earthquake, severe thunderstorm, winter storm, wildfire",A,100.0,1960.0,2460.0,0.0163,0.0049,0.065,
+2022-12-01,Sakura Re Ltd.,Sompo International,"U.S. (inc. DC, Puerto Rico & Virgin Islands) & Canada named storm and earthquake",A,150.0,45000.0,140000.0,0.0373,0.0296,0.135,
+2022-12-01,Mystic Re IV Ltd.,Liberty Mutual,"US, Canada, Caribbean named storm & earthquake",A,150.0,2600.0,4100.0,0.0248,0.0174,0.0925,
+2022-12-01,Veraison Re Ltd.,GeoVera Insurance Holdings Ltd.,US earthquake,A,75.0,675.0,940.0,,0.0065,0.0625,
+2022-12-01,Veraison Re Ltd.,GeoVera Insurance Holdings Ltd.,US earthquake,B,75.0,250.0,350.0,,0.0291,0.10125,
+2022-12-01,Montoya Re Ltd.,Inigo Insurance (Syndicate 1301),"U.S. named storm, U.S. and Canada earthquake",A,110.0,,,0.0425,0.0318,0.14,
+2022-12-01,Ursa Re II Ltd.,California Earthquake Authority,California Earthquake,AA,185.0,8475.0,9475.0,0.0113,0.0105,0.07,
+2022-12-01,Ursa Re II Ltd.,California Earthquake Authority,California Earthquake,B,120.0,4407.0,4907.0,0.0243,0.023,0.1025,
+2022-12-01,Sanders Re III Ltd.,Allstate,"US named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact (excl. Florida)",A,100.0,3750.0,4150.0,0.0076,0.006238,0.0625,
+2022-11-01,Residential Reinsurance 2022 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",3,60.0,2300.0,,,0.0272,0.1,
+2022-11-01,Residential Reinsurance 2022 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",5,135.0,3475.0,,,0.0134,0.07,
+2022-11-01,Herbie Re Ltd.,Fidelis Insurance,North American Earthquake,A,80.0,12500.0,20000.0,0.0411,0.0337,0.125,
+2022-06-01,Northshore Re II Ltd.,AXIS Capital Holdings Ltd. subsidiaries,"U.S. named storms (inc. Puerto Rico & Virgin Islands), U.S. & Canada earthquake",A,140.0,,,0.0248,0.0202,0.08,
+2022-06-01,Kilimanjaro III Re Ltd.,Everest Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",2022-1,300.0,6000.0,8782.0,0.0143,0.009,0.0525,
+2022-06-01,Matterhorn Re Ltd.,Swiss Re,US named storm,A,125.0,,,0.0382,0.0331,0.09,
+2022-06-01,Matterhorn Re Ltd.,Swiss Re,US named storm,C,75.0,,,0.0382,0.0331,0.09,
+2022-06-01,Ursa Re II Ltd.,California Earthquake Authority,California Earthquake,A,150.0,7000.0,7500.0,,0.0133,0.05,
+2022-06-01,Ursa Re II Ltd.,California Earthquake Authority,California Earthquake,B,70.0,2850.0,3350.0,,0.0328,0.0775,
+2022-06-01,Catahoula II Re Pte. Ltd.,Louisiana Citizens Property Insurance Corporation,Louisiana named storm and severe thunderstorm,A,120.0,525.0,700.0,0.0141,0.0112,0.095,
+2022-06-01,Catahoula II Re Pte. Ltd.,Louisiana Citizens Property Insurance Corporation,Louisiana named storm and severe thunderstorm,B,55.0,300.0,525.0,0.0275,0.0198,0.13,
+2022-06-01,Yosemite Re Ltd.,Core Speciality (StarStone),US named storm and earthquake,A,65.0,300.0,570.0,0.0232,0.0116,0.0975,
+2022-06-01,Black Kite Re Limited,Peak Reinsurance Company,Japan Typhoon,A,150.0,12500.0,15000.0,,0.0322,0.069,
+2022-06-01,Sanders Re III Ltd.,Allstate,"Florida named storm, earthquake, severe thunderstorm, volcanic eruption, meteorite impact, wildfire",A,150.0,,,,0.0067,0.065,
+2022-06-01,Sanders Re III Ltd.,Allstate,"Florida named storm, earthquake, severe thunderstorm, volcanic eruption, meteorite impact, wildfire",B,100.0,,,,0.0179,0.0875,
+2022-05-01,Sanders Re III Ltd.,Allstate,"Florida named storm, earthquake, severe thunderstorm, volcanic eruption, meteorite impact, wildfire",C,37.5,,,,0.1743,,
+2022-05-01,Alamo Re Ltd.,Texas Windstorm Insurance Association,Texas named storms and severe thunderstorms,A,200.0,2200.0,2843.0,,0.0251,0.0725,
+2022-05-01,Atlas Capital Reinsurance 2022 DAC,SCOR SE,"U.S. named storm, U.S. & Canada earthquake, European windstorm",A,240.0,,,0.038,0.0317,0.095,
+2022-05-01,Everglades Re II Ltd.,Citizens Property Insurance,Florida named storms,A,200.0,4563.0,6020.0,0.0107,0.0083,0.0775,
+2022-05-01,Long Point Re IV Ltd.,Travelers,"U.S. tropical cyclone, earthquake, severe thunderstorm, winter storm (Northeastern U.S. states only)",A,575.0,2200.0,2900.0,0.01348,0.01127,0.0425,
+2022-05-01,Torrey Pines Re Ltd.,Palomar Speciality Insurance Company,US earthquake,A,200.0,825.0,1125.0,,0.0123,0.05,
+2022-05-01,Torrey Pines Re Ltd.,Palomar Speciality Insurance Company,US earthquake,B,75.0,250.0,425.0,,0.0377,0.0825,
+2022-05-01,Integrity Re Ltd.,American Integrity Insurance Group,Florida named storms,A,75.0,980.0,,,0.0141,0.07,
+2022-05-01,Bowline Re Ltd.,Transatlantic Reinsurance Co.,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake. Japan earthquake",A,40.0,,,0.023,0.0201,0.0635,
+2022-05-01,Bowline Re Ltd.,Transatlantic Reinsurance Co.,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake. Japan earthquake",B,75.0,,,0.0827,0.0685,0.17,
+2022-05-01,Bowline Re Ltd.,Transatlantic Reinsurance Co.,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake. Japan earthquake",C,50.0,,,0.053,0.0357,0.0775,
+2022-05-01,Residential Reinsurance 2022 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",11,35.0,1775.0,,,0.0483,0.125,
+2022-05-01,Residential Reinsurance 2022 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",12,60.0,2125.0,,,0.0233,0.075,
+2022-05-01,Residential Reinsurance 2022 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",13,155.0,2475.0,,,0.0119,0.0525,
+2022-05-01,Residential Reinsurance 2022 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",14,180.0,3175.0,,,0.0061,0.04,
+2022-05-01,Gateway Re Ltd.,SureChoice Underwriters Reciprocal Exchange,"US named storm: Alabama, Louisiana, Mississippi, Texas",A,150.0,,,0.0273,0.0168,0.085,
+2022-04-01,Vista Re Ltd.,Vantage Risk,"U.S. named storm, U.S. and Canada earthquake",A,65.0,175.0,225.0,0.0723,0.0597,0.145,
+2022-04-01,Citrus Re Ltd.,Heritage Property and Casualty Insurance Co.,"US named storm (initially Connecticut, Delaware, Maryland, Massachusetts, New Jersey, New York, Rhode Island, Virginia)",A,100.0,390.0,760.0,0.0195,0.0157,0.051,
+2022-04-01,Hestia Re Ltd.,Kin Interinsurance Network,Florida named storms,A,175.0,125.0,325.0,0.0271,0.0197,0.095,
+2022-03-01,Sanders Re III Ltd.,Allstate,"US named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact (excl. Florida)",A,200.0,3750.0,4300.0,0.0099,0.008607,0.035,
+2022-03-01,Sanders Re III Ltd.,Allstate,"US named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact (excl. Florida)",B,175.0,3000.0,3500.0,0.0093,0.007175,0.1075,
+2022-03-01,Sanders Re III Ltd.,Allstate,"US named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact (excl. Florida)",C,175.0,2705.0,3205.0,0.009,0.006255,0.1175,
+2022-03-01,Montoya Re Ltd.,Inigo Insurance,"U.S. named storm, U.S. and Canada earthquake, Japan earthquake, Japan typhoon",A,115.0,,,0.0337,0.0152,0.0675,
+2022-03-01,Tomoni Re Pte Ltd.,"Mitsui Sumitomo Insurance Co. Ltd., Aioi Nissay Dowa Insurance Co., Ltd.","Japan typhoon, Japan flood",A-1,100.0,,,,0.0038,0.02,
+2022-03-01,Tomoni Re Pte Ltd.,"Mitsui Sumitomo Insurance Co. Ltd., Aioi Nissay Dowa Insurance Co., Ltd.","Japan typhoon, Japan flood",B-1,120.0,,,,0.0137,0.0275,
+2022-03-01,Cape Lookout Re Ltd.,North Carolina Insurance Underwriting Association,North Carolina named storm and severe thunderstorm,A,330.0,1850.0,2550.0,0.0197,0.0154,0.05,
+2022-03-01,Matterhorn Re Ltd.,Swiss Re.,"US named storm, US and Canada Earthquake",A,175.0,,,0.027,0.0211,0.0525,
+2022-03-01,Matterhorn Re Ltd.,Swiss Re.,"US named storm, US and Canada Earthquake",B,150.0,,,0.0525,0.0379,0.0775,
+2022-03-01,Bonanza Re Ltd.,American Strategic Insurance Group,US named storm,A,130.0,1000.0,1400.0,,0.0203,0.0575,
+2022-03-01,Baltic PCC Limited,Pool Re,Terrorism Risk,,131.0,725.0,925.0,0.0259,0.0238,0.0549,
+2022-02-01,FloodSmart Re Ltd.,FEMA / NFIP via Hannover Re,U.S. flood risks (for named storms),A,325.0,9000.0,10000.0,,0.0425,0.1125,
+2022-02-01,FloodSmart Re Ltd.,FEMA / NFIP via Hannover Re,U.S. flood risks (for named storms),B,100.0,7000.0,9000.0,,0.0548,0.1375,
+2022-02-01,FloodSmart Re Ltd.,FEMA / NFIP via Hannover Re,U.S. flood risks (for named storms),C,25.0,6000.0,7000.0,,0.0717,0.1775,
+2022-02-01,Blue Halo Re Ltd.,Allianz Risk Transfer,"U.S. named storm, U.S. earthquake",A,60.0,,,,0.0491,0.0975,
+2022-02-01,Blue Halo Re Ltd.,Allianz Risk Transfer,"U.S. named storm, U.S. earthquake",B,65.0,,,,0.0702,0.1525,
+2022-01-01,Vitality Re XIII,Aetna,Medical Benefit Claims Levels,A,140.0,1050.0,1190.0,,0.0001,0.02,
+2022-01-01,Vitality Re XIII,Aetna,Medical Benefit Claims Levels,B,60.0,990.0,1050.0,,0.0018,0.0275,
+2022-01-01,Tailwind Re Ltd.,Validus Holdings,"U.S., Canada, Puerto Rico, U.S. Virgin Islands named storms and earthquakes",A,100.0,,,0.0392,0.0363,0.0675,
+2022-01-01,Tailwind Re Ltd.,Validus Holdings,"U.S., Canada, Puerto Rico, U.S. Virgin Islands named storms and earthquakes",B,150.0,,,0.0524,0.045,0.0875,
+2022-01-01,Tailwind Re Ltd.,Validus Holdings,"U.S., Canada, Puerto Rico, U.S. Virgin Islands named storms and earthquakes",C,100.0,,,0.064,0.0582,0.1175,
+2022-01-01,Tailwind Re Ltd.,Validus Holdings,"U.S., Canada, Puerto Rico, U.S. Virgin Islands named storms and earthquakes",D,50.0,,,0.073,0.0684,0.1475,
+2021-12-01,Toponga Re Ltd.,Farmers Insurance Group,"US named storm, earthquake, severe weather, wildfire",A,100.0,,,0.0188,0.0149,0.0475,
+2021-12-01,Toponga Re Ltd.,Farmers Insurance Group,"US named storm, earthquake, severe weather, wildfire",B,60.0,,,0.0134,0.0103,0.15,
+2021-12-01,Four Lakes Re Ltd.,American Family Mutual Insurance Co.," U.S named storm, earthquake, severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact",A,125.0,1050.0,1450.0,0.0207,0.0137,0.0475,
+2021-12-01,3264 Re Ltd.,Hannover Re,Worldwide Peak Perils,A,100.0,,,0.1427,0.0795,0.19,
+2021-12-01,Titania Re Ltd.,Ariel Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",A,175.0,1050.0,1383.0,,0.0332,0.065,
+2021-12-01,Bonanza Re Ltd.,American Strategic Insurance Group,"U.S. named storms, severe thunderstorms, winter storms, wildfires, earthquakes",B,80.0,650.0,750.0,,0.0032,0.13,
+2021-12-01,Matterhorn Re Ltd.,Swiss Re Ltd.,"U.S. named storm, U.S. and Canada earthquake",A,150.0,,,0.0429,0.0332,0.0575,
+2021-12-01,Logistics Re Ltd.,"Prologis, Inc",U.S. earthquake,A,95.0,350.0,550.0,0.01559,0.01094,0.035,
+2021-12-01,Phoenician Re Ltd.,Alphabet Inc.,California earthquake,A,275.5,1500.0,1900.0,,0.0051,0.025,
+2021-11-01,Sanders Re III Ltd.,Allstate,"US named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact (excl. Florida)",A,250.0,3750.0,4000.0,,0.8457,0.0325,
+2021-11-01,Sanders Re III Ltd.,Allstate,"US named storm, earthquake, severe weather, wildfire, volcanic eruption, meteorite impact (excl. Florida)",B,150.0,3750.0,3975.0,,0.010869,0.125,
+2021-11-01,Residential Reinsurance 2021 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",2,175.0,1177.0,,,0.066,0.1175,
+2021-11-01,Residential Reinsurance 2021 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",3,125.0,2125.0,,,0.0296,0.055,
+2021-10-01,Acorn Re Ltd.,"Hannover Rück SE / Oak Tree Assurance, Ltd.",U.S. earthquake,A,475.0,,,0.012,0.0089,0.025,
+2021-10-01,SD Re Ltd.,Sempra Energy,California wildfire,A,45.0,1360.0,,,0.0133,0.0875,
+2021-10-01,SD Re Ltd.,Sempra Energy,California wildfire,B,135.0,1210.0,,,0.0156,0.0925,
+2021-09-01,Nakama Re Pte. Ltd.,Zenkyoren,Japan Earthquake,1,550.0,19600.0,22800.0,0.0232,0.022,0.0205,
+2021-09-01,Nakama Re Pte. Ltd.,Zenkyoren,Japan Earthquake,2,225.0,11000.0,13700.0,0.0426,0.0377,0.0275,
+2021-07-01,IBRD CAR 130,Government of Jamaica,Jamaica named storms,A,185.0,,,,0.0152,0.044,
+2021-07-01,Vita Capital VI Limited,Swiss Re,Extreme Mortality,B,120.0,,,0.0106,0.0075,0.03,
+2021-07-01,Astro Re Pte. Ltd.,Frontline Insurance & First Protective Insurance Company, U.S. named storm,A,40.0,,,,0.029,0.08,
+2021-07-01,White Rock Insurance Ltd.,Mercury Insurance,California wildfire,,50.7,450.0,850.0,,,,
+2021-07-01,Claveau Re Ltd.,Arch Capital Group Ltd.,Global Peak Perils,A,150.0,55000.0,77500.0,,0.0718,0.1725,
+2021-06-01,Mona Lisa Re Ltd., Renaissance Re and DaVinci Re," U.S., Puerto Rico, U.S. Virgin Islands, D.C. named storm and earthquakes, Canada earthquakes",A,250.0,,,,0.0371,0.07,
+2021-06-01,Baldwin Re Ltd.,Vermont Mutual Insurance Company,"Northeast U.S. named storm, earthquake, severe weather, fire and other perils",A,150.0,450.0,850.0,0.01311,0.0091,0.0225,
+2021-06-01,Umigame Re Pte. Ltd.,Tokio Marine & Nichido Fire Insurance Co. Ltd.,"Japan Typhoon, Japan flood",A-1,100.0,2696.0,,,0.0131,0.0225,
+2021-06-01,Umigame Re Pte. Ltd.,Tokio Marine & Nichido Fire Insurance Co. Ltd.,"Japan Typhoon, Japan flood",B,50.0,1483.0,,,0.0314,0.0475,
+2021-06-01,Umigame Re Pte. Ltd.,Tokio Marine & Nichido Fire Insurance Co. Ltd.,"Japan Typhoon, Japan flood",A-2,50.0,2696.0,,,0.0132,0.025,
+2021-06-01,Wrigley Re Ltd.,Gryphon Mutual,California earthquake,A,50.0,,,,0.0099,0.024,
+2021-06-01,Mystic Re IV Ltd.,Liberty Mutual,"US, Canada, Caribbean named storm & earthquake",A,225.0,1500.0,3000.0,,0.0253,0.055,
+2021-06-01,Mystic Re IV Ltd.,Liberty Mutual,"US, Canada, Caribbean named storm & earthquake",B,75.0,1000.0,1500.0,,0.0598,0.1075,
+2021-06-01,Titanie Re Ltd.,Ariel Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",A,150.0,1000.0,1330.0,,0.0198,0.045,
+2021-05-01,Putnam Re Pte. Ltd.,St. Johns Insurance Company,Florida and South Carolina named storms,A,120.0,300.0,420.0,,0.0136,0.055,
+2021-05-01,Sanders Re II Ltd.,Allstate,"US named storm, earthquake, severe weather, wildfire, other perils (excl. Florida)",A,250.0,3750.0,4150.0,,0.011475,0.035,
+2021-05-01,Alamo Re Ltd.,Texas Windstorm Insurance Association,Texas named storms and severe thunderstorms,A,500.0,2100.0,4030.0,,0.0176,0.04,
+2021-05-01,Riverfront Re Ltd.,Great American Insurance Group,"U.S. and Canada named storms, earthquakes, severe thunderstorms, winter storms, wildfires, meteorite impact, volcanic eruption",A,235.0,200.0,450.0,,0.0092,0.0425,
+2021-05-01,Riverfront Re Ltd.,Great American Insurance Group,"U.S. and Canada named storms, earthquakes, severe thunderstorms, winter storms, wildfires, meteorite impact, volcanic eruption",B,70.0,125.0,200.0,,0.0265,0.065,
+2021-05-01,Herbie Re Ltd.,Fidelis Insurance,"North America named storm, North America earthquake, US severe thunderstorm, US wildfire, US winter storms, US Caribbean earthquake, Japan typhoon, Japan earthquake, Canada severe storm, Canada winter storm, European windstorm, Italy earthquake, Turkey earthquake, Australia earthquake, Australia tropical cyclone, NZ earthquake",A,150.0,50000.0,,0.1143,0.0732,0.1725,
+2021-05-01,Residential Reinsurance 2021 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",11,100.0,,,,0.0432,0.0925,
+2021-05-01,Residential Reinsurance 2021 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",12,100.0,,,,0.0235,0.0525,
+2021-05-01,Residential Reinsurance 2021 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",13,100.0,,,,0.0131,0.0375,
+2021-05-01,Residential Reinsurance 2021 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",14,100.0,,,,0.0061,0.025,
+2021-05-01,Everglades Re II Ltd.,Citizens Property Insurance,Florida named storms,2021-1 A,350.0,2906.0,3777.0,,0.011,0.0575,
+2021-05-01,Everglades Re II Ltd.,Citizens Property Insurance,Florida named storms,B,275.0,2035.0,2906.0,,0.0167,0.0675,
+2021-05-01,Everglades Re II Ltd.,Citizens Property Insurance,Florida named storms,2021-2 A,150.0,2412.0,3585.0,,0.0103,0.0575,
+2021-05-01,Artex SAC Limited,Unknown,Unknown property catastrophe risks,A,50.0,1390.0,1835.0,,0.092,0.1575,
+2021-05-01,Artex SAC Limited,Unknown,Unknown property catastrophe risks,B,200.0,2980.0,4208.0,,0.0414,0.0916,
+2021-05-01,Pelican IV Re Ltd.,Louisiana Citizens Property Insurance Corporation,Louisiana named storm and severe thunderstorm,A,75.0,245.0,345.0,,0.0063,0.0225,
+2021-05-01,Pelican IV Re Ltd.,Louisiana Citizens Property Insurance Corporation,Louisiana named storm and severe thunderstorm,B,50.0,70.0,120.0,,0.0044,0.0525,
+2021-05-01,Vista Re Ltd.,Vantage Risk,"U.S. named storm, U.S. and Canada earthquake",A,225.0,,,,0.0332,0.0675,
+2021-04-01,Kendall Re Ltd.,Aspen Insurance," U.S. named storm, U.S. & Canada earthquake, European windstorm",A,150.0,475.0,,,0.0162,0.04,
+2021-04-01,Kendall Re Ltd.,Aspen Insurance," U.S. named storm, U.S. & Canada earthquake, European windstorm",B,150.0,325.0,,,0.0332,0.0625,
+2021-04-01,Kilimanjaro III Re Ltd.,Everest Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",A-2,150.0,,,,0.0721,0.1125,
+2021-04-01,Kilimanjaro III Re Ltd.,Everest Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",B-2,90.0,,,,0.0189,0.045,
+2021-04-01,Kilimanjaro III Re Ltd.,Everest Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",C-2,90.0,,,,0.0157,0.0425,
+2021-04-01,Merna Re II Ltd.,State Farm,U.S. earthquake,A,350.0,,,,0.018,0.0375,
+2021-03-01,Sakura Re Ltd.,Sompo Japan Insurance & Affiliates,"Japanese Typhoon, Japanese Flood, U.S. earthquake",A,200.0,,,,0.0099,0.0225,
+2021-03-01,Sakura Re Ltd.,Sompo Japan Insurance & Affiliates,"Japanese Typhoon, Japanese Flood, U.S. earthquake",B,200.0,,,,0.0117,0.04,
+2021-03-01,Torrey Pines Re Pte. Ltd.,Palomar Speciality Insurance Company,U.S. earthquake,A,200.0,,,,0.0183,0.04,
+2021-03-01,Torrey Pines Re Pte. Ltd.,Palomar Speciality Insurance Company,U.S. earthquake,B,200.0,,,,0.0297,0.0525,
+2021-03-01,Kizuna Re III Pte. Ltd.,Tokio Marine & Nichido Fire Insurance Co. Ltd.,Japan earthquake,A,150.0,491.0,,,0.01,0.02,
+2021-03-01,Cosaint Re Pte. Ltd.,Universal Property and Casualty Insurance Company (UPCIC),U.S. named storm,A,150.0,1100.0,,,0.0297,0.0925,
+2021-03-01,First Coast Re III Pte. Ltd.,Secuirty First Insurance Company,"Florida named storm, severe thunderstorm",A,225.0,,,,0.0186,0.06,
+2021-03-01,Cape Lookout Re Ltd.,North Carolina Insurance Underwriting Association,North carolina named storm and severe thunderstorm,A,250.0,2350.0,2850.0,,0.0104,0.0325,
+2021-03-01,Ursa Re II Ltd.,California Earthquake Authority,California earthquake,F,215.0,2100.0,2600.0,,0.0374,0.0625,
+2021-02-01,FloodSmart Re Ltd.,FEMA/NFIP via Hannover Re,U.S. flood risk (from named storms),A,450.0,7000.0,9000.0,,0.0547,0.13,
+2021-02-01,FloodSmart Re Ltd.,FEMA/NFIP via Hannover Re,U.S. flood risk (from named storms),B,125.0,6000.0,7000.0,,0.0723,0.1675,
+2021-02-01,Vitality Re XII Ltd,Aetna,Medical benefit claims levels,A,140.0,1040.0,,,0.0001,0.0225,
+2021-02-01,Vitality Re XII Ltd,Aetna,Medical benefit claims levels,B,60.0,980.0,,,0.0025,0.0275,
+2021-01-01,Sierra Ltd.,"Funds managed by Bayview Asset Management, LLC",U.S. earthquake,A,150.0,,,,0.0079,0.027,
+2021-01-01,Sierra Ltd.,"Funds managed by Bayview Asset Management, LLC",U.S. earthquake,B,50.0,,,,0.0271,0.0475,
+2020-12-01,Easton Re Pte. Ltd.,Hamilton Re,"U.S. named storm, U.S. earthquake",A,150.0,,,,0.0148,0.04,
+2020-12-01,Bonanza Re Ltd.,American Strategic Insurance Group,"U.S. named storms, severe thunderstorms, winter storms, wildfires, earthquakes",A,200.0,,,,0.0104,0.0475,
+2020-12-01,Bonanza Re Ltd.,American Strategic Insurance Group,"U.S. named storms, severe thunderstorms, winter storms, wildfires, earthquakes",B,95.0,,,,0.0036,0.12,
+2020-12-01,Mystic Re IV Ltd.,Liberty Mutual,"U.S. named storm, U.S. earthquake",A,300.0,,,,0.0455,0.09,
+2020-12-01,Sussex Capital UK PCC Limited,Brit Syndicates Ltd.,"U.S. named storm, U.S. earthquake",,300.0,,,,0.0308,0.0775,
+2020-12-01,Phoenician Re Ltd.,Alphabet Inc.,California earthquake,A,95.0,1750.0,1850.0,,0.00247,0.029,
+2020-12-01,Northshore Re II Ltd.,AXIS capital holdings LTD. subsidiaries,"U.S. named storms (inc. Puerto Rico & Virgin Islands), U.S. & Canada earthquake, European windstorm",A,150.0,,,,0.019,0.0575,
+2020-12-01,Power Protective Re Ltd.,Los Angeles department of water and power,California wildfire,,50.0,,,,0.00685,0.1075,
+2020-12-01,Phoenician Re Ltd.,Alphabet Inc.,California earthquake,A,237.5,1500.0,1750.0,,0.00333,0.03,
+2020-12-01,Matterhorn Re Ltd.,Swiss Re,U.S. named storm,A,150.0,,,,0.024,0.0425,
+2020-12-01,Matterhorn Re Ltd.,Swiss Re,U.S. named storm,B,150.0,,,,0.024,0.055,
+2020-11-01,2001 CAT Re Ltd.,Allied World Insurance Company,"U.S named storm, U.S. & Canada earthquake, U.S. severe thunderstorm, European windstorm",A,210.0,,,,0.054,0.12,
+2020-11-01,Four Lakes Re Ltd.,American Family Mutual Insurance  Co.,"U.S named storm, earthquake, severe thunderstorm, wildfire, winter storm, volcanic eruption, meteorite impact",A,100.0,,,,0.0228,0.07,
+2020-11-01,Four Lakes Re Ltd.,American Family Mutual Insurance  Co.,"U.S named storm, earthquake, severe thunderstorm, wildfire, winter storm, volcanic eruption, meteorite impact",B,75.0,,,,0.0371,0.095,
+2020-11-01,Residential Reinsurance 2020 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",1,50.0,688.0,,,0.1484,0.26,
+2020-11-01,Residential Reinsurance 2020 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",3,150.0,1875.0,,,0.0353,0.0825,
+2020-11-01,Residential Reinsurance 2020 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",4,200.0,2550.0,,,0.0232,0.0625,
+2020-10-01,Herbie Re Ltd.,Fidelis Insurance,"U.S. named storm, U.S. earthquake",A,100.0,,,,0.0207,0.0625,
+2020-10-01,Herbie Re Ltd.,Fidelis Insurance,"U.S. named storm, U.S. earthquake",B,150.0,,,,0.0361,0.09,
+2020-10-01,Herbie Re Ltd.,Fidelis Insurance,"U.S. named storm, U.S. earthquake",C,25.0,,,,0.0759,0.16,
+2020-10-01,La Vie Re Limited,Minnesota Life Insurance Company,Extreme mortality,A,100.0,,,,0.0017,0.0285,
+2020-10-01,Ursa Re II Ltd.,California Earthquake Authority,California earthquake,AA,425.0,,,,0.009,0.0375,
+2020-10-01,Ursa Re II Ltd.,California Earthquake Authority,California earthquake,D,350.0,,,,0.0253,0.0625,
+2020-07-01,Hypatia Ltd.,Convex Re,"U.S. named storm, U.S. and Canada earthquake",A,150.0,120.0,,,0.0171,0.0675,
+2020-07-01,Hypatia Ltd.,Convex Re,"U.S. named storm, U.S. and Canada earthquake",B,150.0,80.0,,,0.0306,0.0975,
+2020-07-01,Matterhorn Re Ltd.,Swiss Re,U.S. named storm,A,65.0,,,,0.0324,0.1,
+2020-07-01,Matterhorn Re Ltd.,Swiss Re,U.S. named storm,B,175.0,,,,0.0324,0.1375,
+2020-06-01,Blue Halo Re Ltd.,Allianz Risk Transfer,U.S. named storm,A,150.0,,,,0.0441,0.1325,
+2020-06-01,Blue Halo Re Ltd.,Allianz Risk Transfer,U.S. named storm,B,25.0,,,,0.055,0.16,
+2020-06-01,Herbie Re Ltd.,Fidelis Insurance,"U.S. named storm, U.S. earthquake",A,125.0,20000.0,,,0.0239,0.09,
+2020-06-01,Casablanca Re Pte. Ltd.,Avatar Property and Casualty Insurance Company,Florida named storm,A,40.0,17.5,,,0.0112,0.0825,
+2020-06-01,Casablanca Re Pte. Ltd.,Avatar Property and Casualty Insurance Company,Florida named storm,B,25.0,17.5,,,0.0235,0.125,
+2020-06-01,Alamo Re II Pte. Ltd.,Texas Windstorm Insurance Association,Texas named storms and severe thunderstorms,A,400.0,2100.0,4200.0,,0.0178,0.0575,
+2020-05-01,Sanders Re II Ltd.,Allstate,"Florida named storm, earthquake, severe thunderstorm, volcanic eruption, meteorite impact, wildfire",A,200.0,,,,0.0061,0.055,
+2020-05-01,Residential Reinsurance 2020 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",13,100.0,2700.0,,,0.0108,0.055,
+2020-05-01,Sutter Re Ltd.,California Earthquake Authority,California earthquake,A,215.0,6472.0,6972.0,,0.0121,0.05,
+2020-05-01,Sutter Re Ltd.,California Earthquake Authority,California earthquake,F,150.0,2100.0,2600.0,,0.0369,0.085,
+2020-05-01,Everglades Re II Ltd.,Citizens Property Insurance,Florida named storms,A,110.0,1641.0,2278.0,,0.0122,0.0625,
+2020-05-01,MetroCat Re Ltd.,First Mutual Transportation Assurance Co. (NYC MTA),New York storm surge and earthquake,A,100.0,,,0.00888,0.00888,0.055,
+2020-05-01,Catahoula Re Pte. Ltd.,Louisiana Citizens Property Insurance Corporation,Louisiana named storm and severe thunderstorm,A,60.0,260.0,360.0,,0.0091,0.035,
+2020-05-01,Matterhorn Re Ltd.,Swiss Re,U.S. named storm,A,110.0,,,,0.019,0.07,
+2020-05-01,Matterhorn Re Ltd.,Swiss Re,U.S. named storm,C,105.0,,,,0.0465,0.095,
+2020-04-01,Atlas Capital Reinsurance 2020 DAC,SCOR SE,"U.S. named storm, U.S. and Canada earthquake",,200.0,,,0.034,0.0284,0.075,
+2020-03-01,Akibare Re Pte. Ltd.,Mitsui Sumitomo Insurance Co. Ltd.,"Japan typhoon, Japan flood",A,100.0,3000.0,,,0.0099,0.0275,
+2020-03-01,Integrity Re II Pte. Ltd.,American Integrity Insurance Group,Florida named storms,A,150.0,,,,0.0198,0.0725,
+2020-03-01,Sanders Re II Ltd.,Allstate," U.S. (ex Florida) named storm, earthquake, severe weather, fire, other perils",A,150.0,2750.0,,,0.0095,0.045,
+2020-03-01,Sanders Re II Ltd.,Allstate," U.S. (ex Florida) named storm, earthquake, severe weather, fire, other perils",B,100.0,2750.0,3976.0,,0.0092,0.1275,
+2020-03-01,International Bank for Reconstruction and Development,FONDEN / AGROASEMEX S.A,"Mexico earthquakes, mexico named storms",A,175.0,,,,0.009,0.035,
+2020-03-01,International Bank for Reconstruction and Development,FONDEN / AGROASEMEX S.A,"Mexico earthquakes, mexico named storms",B,60.0,,,,0.0578,0.09,
+2020-03-01,International Bank for Reconstruction and Development,FONDEN / AGROASEMEX S.A,"Mexico earthquakes, mexico named storms",C,125.0,,,,0.0561,0.1,
+2020-03-01,International Bank for Reconstruction and Development,FONDEN / AGROASEMEX S.A,"Mexico earthquakes, mexico named storms",D,100.0,,,,0.0406,0.065,
+2020-02-01,Caelus Re VI Ltd.,Nationwide Mutual Insurance Co.,"U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption, other perils",A-1,150.0,1950.0,2350.0,,0.013,0.055,
+2020-02-01,Caelus Re VI Ltd.,Nationwide Mutual Insurance Co.,"U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption, other perils",B-1,150.0,1950.0,2350.0,,0.013,0.055,
+2020-02-01,Caelus Re VI Ltd.,Nationwide Mutual Insurance Co.,"U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption, other perils",A-2,75.0,1775.0,1880.0,,0.0097,0.055,
+2020-02-01,Caelus Re VI Ltd.,Nationwide Mutual Insurance Co.,"U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption, other perils",B-2,75.0,1575.0,1775.0,,0.017,0.0775,
+2020-02-01,Caelus Re VI Ltd.,Nationwide Mutual Insurance Co.,"U.S. named storm, earthquake, severe thunderstorm, winter storm, wildfire, meteorite impact, volcanic eruption, other perils",C-2,40.0,1280.0,1575.0,,0.041,0.1275,
+2020-02-01,FloodSmart Re Ltd.,FEMA / NFIP via Hannover Re,U.S. flood risk (from named storms),A,300.0,9000.0,10000.0,,0.0391,0.11,
+2020-02-01,FloodSmart Re Ltd.,FEMA / NFIP via Hannover Re,U.S. flood risk (from named storms),B,100.0,6000.0,9000.0,,0.0568,0.145,
+2020-02-01,Bonanza Re Ltd.,American Strategic Insurance Group,"U.S. named storms, severe thunderstorms, winter storms, wildfires, earthquakes",A,200.0,,,0.0115,0.0103,0.0475,
+2020-02-01,Nakama Re Ltd.,Zenkyoren,Japan earthquake,1,200.0,19500.0,22700.0,,0.0143,0.022,
+2020-02-01,Matterhorn Re Ltd.,Swiss Re,"U.S. named storm, extreme mortality in Australia, Canada, UK",A,80.0,,,,0.0141,0.05,
+2020-02-01,Matterhorn Re Ltd.,Swiss Re,"U.S. named storm, extreme mortality in Australia, Canada, UK",B,175.0,,,,0.0276,0.065,
+2020-01-01,Vitality Re XI Ltd.,Aetna,Medical benefit claims levels,A,140.0,1020.0,,,0.0001,0.015,
+2020-01-01,Vitality Re XI Ltd.,Aetna,Medical benefit claims levels,B,60.0,960.0,,,0.0004,0.018,
+2020-01-01,3264 Re Ltd.,Hannover Re,"U.S. named storm, U.S. & Canada earthquake, European windstorm",A,150.0,,,0.0546,0.0404,0.0975,
+2020-01-01,Stratosphere Re Ltd.,Markel Bermuda Limited (covering State National's tail risk from Nephila program),"U.S. named storm, earthquake, winter storm, severe thunderstorm",A,100.0,2350.0,3350.0,0.00185,0.00115,0.0275,
+2020-01-01,Mona Lisa Re Ltd.,Renaissance Re and DaVinci Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C. named storm and earthquakes, Canada earthquakes",A,250.0,,,,0.0252,0.075,
+2020-01-01,Mona Lisa Re Ltd.,Renaissance Re and DaVinci Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C. named storm and earthquakes, Canada earthquakes",B,150.0,,,,0.0346,0.08,
+2020-01-01,Sierra Ltd.,"Funds managed by Bayview Asset Management, LLC",U.S. earthquake,A,150.0,,,0.0177,0.0079,0.0325,
+2020-01-01,Sierra Ltd.,"Funds managed by Bayview Asset Management, LLC",U.S. earthquake,B,75.0,,,0.0413,0.0271,0.0575,
+2020-01-01,Matterhorn Re Ltd.,Swiss Re,U.S. named storm,A,175.0,,,,0.0282,0.0525,
+2020-01-01,Matterhorn Re Ltd.,Swiss Re,U.S. named storm,B,175.0,,,,0.036,0.075,
+2019-12-01,Kilimanjaro III Re Ltd.,Everest Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",A-1 and A-2,150.0,,,,0.0847,0.1575,
+2019-12-01,Kilimanjaro III Re Ltd.,Everest Re,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm and earthquake",B-1 and B-2,275.0,,,,0.0381,0.095,
+2019-12-01,Galileo Re Ltd.,XL Bermuda Ltd.,"U.S., Puerto Rico, Virgin Islands named storm, U.S. earthquake, Canada earthquake, U.S. severe thunderstorm, European windstorm, Australian tropical cyclone, Australian earthquake",A,75.0,1200.0,1500.0,,0.0774,0.1575,
+2019-12-01,Galileo Re Ltd.,XL Bermuda Ltd.,"U.S., Puerto Rico, Virgin Islands named storm, U.S. earthquake, Canada earthquake, U.S. severe thunderstorm, European windstorm, Australian tropical cyclone, Australian earthquake",C,250.0,1800.0,2100.0,,0.0352,0.0925,
+2019-12-01,Galileo Re Ltd.,XL Bermuda Ltd.,"U.S., Puerto Rico, Virgin Islands named storm, U.S. earthquake, Canada earthquake, U.S. severe thunderstorm, European windstorm, Australian tropical cyclone, Australian earthquake",D,150.0,2100.0,2400.0,,0.0254,0.0745,
+2019-11-01,Ursa Re Ltd.,California earthquake authority,California earthquake,C,400.0,4000.0,4500.0,0.0225,0.0211,0.0575,
+2019-11-01,Residential Reinsurance 2019 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",1,50.0,650.0,,0.21,0.1431,0.2275,
+2019-11-01,Residential Reinsurance 2019 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",2,110.0,1073.0,,0.0978,0.0587,0.115,
+2019-11-01,IBRD CAR 123-124,Republic of the Philipines,Philippine earthquakes & tropical cyclones,A,75.0,,,0.053,0.03,0.055,
+2019-11-01,IBRD CAR 123-124,Republic of the Philipines,Philippine earthquakes & tropical cyclones,B,150.0,,,0.053,0.03,0.0565,
+2019-06-01,Northshore Re II Ltd.,AXIS Capital Holdings Ltd. subsidiaries,"U.S. named storms (inc. Puerto Rico & Virgin Islands), U.S. & Canada earthquake, European windstorm",,165.0,,,0.033,0.0284,0.075,
+2019-06-01,Cape Lookout Re Ltd.,North Carolina Insurance Underwriting Association,North Carolina named storm and severe thunderstorm,A,100.0,1300.0,1600.0,,0.0252,0.0675,
+2019-06-01,Matterhorn Re Ltd.,Swiss Re,Northeast U.S. named storm,,250.0,17500.0,25000.0,0.0238,0.0381,0.085,
+2019-05-01,Atlas Capital UK 2019 PLC,SCOR Global P&C SE,"U.S. named storm, U.S. and Canada earthquake, European windstorm",,250.0,,,,0.0546,0.11875,
+2019-05-01,Integrity Re Ltd.,American Integrity Insurance Group,Florida named storms & severe thunderstorms,A,50.0,275.0,432.5,,0.0114,0.0475,
+2019-05-01,Alamo Re Ltd.,Texas Windstorm Insurance Association,Texas named storms and severe thunderstorms,2019-1,200.0,2100.0,,,0.018,0.045,
+2019-05-01,Manatee Re III Pte.,SafePoint Insurance Company,"U.S. named storm, U.S. severe thunderstorm (Florida, Louisiana, New Jersey & Texas initially)",A,20.0,27.0,377.0,,0.0115,0.0525,
+2019-05-01,Manatee Re III Pte.,SafePoint Insurance Company,"U.S. named storm, U.S. severe thunderstorm (Florida, Louisiana, New Jersey & Texas initially)",B,20.0,27.0,107.0,,0.0423,0.095,
+2019-05-01,Residential Reinsurance 2019 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",12,60.0,2075.0,,,0.0361,0.0825,
+2019-05-01,Residential Reinsurance 2019 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",13,75.0,2675.0,,,0.0098,0.045,
+2019-05-01,Armor Re II Ltd.," United Property & Casualty Insurance Co., Family Security Insurance Co., Interboro Insurance Co., American Coastal Insurance","U.S. named storm, U.S. earthquake",A,100.0,,,,0.0164,0.059,
+2019-04-01,FloodSmart Re Ltd., FEMA / NFIP via Hannover Re,U.S. flood risk (from named storms),A,250.0,8000.0,10000.0,0.0493,0.0415,0.1125,
+2019-04-01,FloodSmart Re Ltd., FEMA / NFIP via Hannover Re,U.S. flood risk (from named storms),B,50.0,6000.0,8000.0,0.0731,0.0601,0.145,
+2019-03-01,Sanders Re II Ltd.,Allstate,"U.S. (ex Florida) named storm, earthquake, severe weather, fire, other perils",B,300.0,2750.0,3150.0,,0.0157,0.1225,
+2019-03-01,Bowline Re Ltd.,Transatlantic Reinsurance Co.,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm, earthquake and severe thunderstorm",A,100.0,,,0.016,0.0136,0.0475,
+2019-03-01,Bowline Re Ltd.,Transatlantic Reinsurance Co.,"U.S., Puerto Rico, U.S. Virgin Islands, D.C., Canada named storm, earthquake and severe thunderstorm",B,150.0,,,0.0608,0.0369,0.085,
+2019-02-01,Cape Lookout Re Ltd.,North Carolina Insurance Underwriting Association,North Carolina named storm & severe thunderstorm,A,450.0,1750.0,2250.0,0.0195,0.0161,0.0425,
+2019-02-01,Baltic PCC Limited,Pool Re,Terrorism Risk,A,97.0,646.0,904.0,0.0305,0.0271,0.059,
+2019-01-01,Vitality Re X Ltd.,Aetna,Medical benefit claims levels,A,140.0,1040.0,1180.0,0.0004,0.0001,0.0175,
+2019-01-01,Vitality Re X Ltd.,Aetna,Medical benefit claims levels,B,60.0,980.0,1040.0,0.0043,0.0017,0.02,
+2018-11-01,Golden State Re II Ltd.,California State Compensation Insurance Fund,Workers compensation claims resulting from California earthquakes,,210.0,1000.0,4323.5,0.0049,0.0025,0.022,
+2018-11-01,Residential Reinsurance 2018 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",1,50.0,,,0.205,0.1407,0.2025,
+2018-11-01,Residential Reinsurance 2018 Limited,USAA,"U.S. tropical cyclones, earthquakes (plus fire following), severe thunderstorm, winter storm, wildfire, volcanic eruption, meteorite impact, other perils (all including auto & renter policy flood losses)",2,150.0,,,0.0953,0.0645,0.115,
+2018-10-01,SD Re Ltd.,Sempra Energy,California wildfire,,125.0,,,,,0.04,
